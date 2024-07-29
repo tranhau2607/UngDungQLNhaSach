@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{76F9CBED-EE53-4103-B4DA-1844899DDADD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLyBanSach</RootNamespace>
+    <AssemblyName>QuanLyBanSach</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connect\CTHD.cs" />
+    <Compile Include="Connect\CTPN.cs" />
+    <Compile Include="Connect\HoaDon.cs" />
+    <Compile Include="Connect\PhieuNhap.cs" />
+    <Compile Include="Connect\TaiKhoanND.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyHoaDon.Designer.cs">
+      <DependentUpon>QuanLyHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyPhieuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyPhieuNhap.Designer.cs">
+      <DependentUpon>QuanLyPhieuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connect\NhaXuatBan.cs" />
+    <Compile Include="Connect\Sach.cs" />
+    <Compile Include="Connect\TacGia.cs" />
+    <Compile Include="Connect\TheLoai.cs" />
+    <Compile Include="LoaiSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoaiSach.Designer.cs">
+      <DependentUpon>LoaiSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhaXuatBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhaXuatBan.Designer.cs">
+      <DependentUpon>NhaXuatBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Password.cs" />
+    <Compile Include="Sach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sach.Designer.cs">
+      <DependentUpon>Sach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout.Designer.cs">
+      <DependentUpon>Layout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TacGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TacGia.Designer.cs">
+      <DependentUpon>TacGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaiKhoan.cs" />
+    <Compile Include="TaiKhoanNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaiKhoanNhanVien.Designer.cs">
+      <DependentUpon>TaiKhoanNhanVien.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="QuanLyHoaDon.resx">
+      <DependentUpon>QuanLyHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyPhieuNhap.resx">
+      <DependentUpon>QuanLyPhieuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoaiSach.resx">
+      <DependentUpon>LoaiSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhaXuatBan.resx">
+      <DependentUpon>NhaXuatBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sach.resx">
+      <DependentUpon>Sach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout.resx">
+      <DependentUpon>Layout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TacGia.resx">
+      <DependentUpon>TacGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaiKhoanNhanVien.resx">
+      <DependentUpon>TaiKhoanNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Connect\ImgIcon\iconkey.jpg" />
+    <None Include="Connect\ImgIcon\iconslogin.png" />
+    <None Include="Connect\ImgIcon\iconULogin.png" />
+    <None Include="Connect\ImgIcon\logoLogin.jpg" />
+    <None Include="Connect\ImgIcon\iconThem.jpg" />
+    <None Include="Connect\ImgIcon\iconSua2.png" />
+    <None Include="Connect\ImgIcon\iconXoa.png" />
+    <Content Include="Connect\ImgSach\000001.jpg" />
+    <Content Include="Connect\ImgSach\000002.jpg" />
+    <Content Include="Connect\ImgSach\000003.jpg" />
+    <Content Include="Connect\ImgSach\000004.jpg" />
+    <Content Include="Connect\ImgSach\000005.jpg" />
+    <Content Include="Connect\ImgSach\000006.jpg" />
+    <Content Include="Connect\ImgSach\000007.jpg" />
+    <Content Include="Connect\ImgSach\000008.jpg" />
+    <Content Include="Connect\ImgSach\000009.jpg" />
+    <Content Include="Connect\ImgSach\000010.jpg" />
+    <Content Include="Connect\ImgSach\000011.jpg" />
+    <Content Include="Connect\ImgSach\000012.jpg" />
+    <Content Include="Connect\ImgSach\000013.jpg" />
+    <Content Include="Connect\ImgSach\000014.jpg" />
+    <Content Include="Connect\ImgSach\000015.jpg" />
+    <Content Include="Connect\ImgSach\000016.jpg" />
+    <Content Include="Connect\ImgSach\000017.jpg" />
+    <Content Include="Connect\ImgSach\000018.jpg" />
+    <Content Include="Connect\ImgSach\000019.jpg" />
+    <Content Include="Connect\ImgSach\000020.jpg" />
+    <Content Include="Connect\ImgSach\000021.jpg" />
+    <Content Include="Connect\ImgSach\000022.jpg" />
+    <Content Include="Connect\ImgSach\000023.jpg" />
+    <Content Include="Connect\ImgSach\000024.jpg" />
+    <Content Include="Connect\ImgSach\000025.jpg" />
+    <Content Include="Connect\ImgSach\000026.jpg" />
+    <Content Include="Connect\ImgSach\000027.jpg" />
+    <Content Include="Connect\ImgSach\000028.jpg" />
+    <Content Include="Connect\ImgSach\000029.jpg" />
+    <Content Include="Connect\ImgSach\000030.jpg" />
+    <Content Include="Connect\ImgSach\000031.jpg" />
+    <Content Include="Connect\ImgSach\000032.jpg" />
+    <Content Include="Connect\ImgSach\000033.jpg" />
+    <Content Include="Connect\ImgSach\000034.jpg" />
+    <Content Include="Connect\ImgSach\000035.jpg" />
+    <Content Include="Connect\ImgSach\000036.jpg" />
+    <Content Include="Connect\ImgSach\000037.jpg" />
+    <Content Include="Connect\ImgSach\000038.jpg" />
+    <Content Include="Connect\ImgSach\000039.jpg" />
+    <Content Include="Connect\ImgSach\000040.jpg" />
+    <Content Include="Connect\ImgSach\000041.jpg" />
+    <Content Include="Connect\ImgSach\000042.jpg" />
+    <Content Include="Connect\ImgSach\000043.jpg" />
+    <Content Include="Connect\ImgSach\000044.jpg" />
+    <Content Include="Connect\ImgSach\000045.jpg" />
+    <Content Include="Connect\ImgSach\000046.jpg" />
+    <Content Include="Connect\ImgSach\000047.jpg" />
+    <Content Include="Connect\ImgSach\000048.jpg" />
+    <Content Include="Connect\ImgSach\000049.jpg" />
+    <Content Include="Connect\ImgSach\000050.jpg" />
+    <Content Include="Connect\ImgSach\000051.jpg" />
+    <Content Include="Connect\ImgSach\000052.jpg" />
+    <Content Include="Connect\ImgSach\000053.jpg" />
+    <Content Include="Connect\ImgSach\000054.jpg" />
+    <Content Include="Connect\ImgSach\000055.jpg" />
+    <Content Include="Connect\ImgSach\000056.jpg" />
+    <Content Include="Connect\ImgSach\000057.jpg" />
+    <Content Include="Connect\ImgSach\000058.jpg" />
+    <Content Include="Connect\ImgSach\000059.jpg" />
+    <Content Include="Connect\ImgSach\000060.jpg" />
+    <Content Include="Connect\ImgSach\000061.jpg" />
+    <Content Include="Connect\ImgSach\000062.jpg" />
+    <Content Include="Connect\ImgSach\000063.jpg" />
+    <Content Include="Connect\ImgSach\000064.jpg" />
+    <Content Include="Connect\ImgSach\10799735_955247194489946_1847856557_n.jpg" />
+    <Content Include="Connect\ImgSach\994849_563440020371129_1594360530_n.jpg" />
+    <Content Include="Connect\ImgSach\a.jpg" />
+    <Content Include="Connect\ImgSach\a123.jpg" />
+    <Content Include="Connect\ImgSach\aadasdsa.jpg" />
+    <Content Include="Connect\ImgSach\asp.net-mvc.jpg" />
+    <Content Include="Connect\ImgSach\b.jpg" />
+    <Content Include="Connect\ImgSach\dsadas.jpg" />
+    <Content Include="Connect\ImgSach\nnn.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

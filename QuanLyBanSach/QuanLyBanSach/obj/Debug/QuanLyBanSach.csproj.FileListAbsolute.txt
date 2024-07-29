@@ -1,0 +1,131 @@
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Login.resources
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Admin.resources
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_HoaDon.resources
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_LoaiSach.resources
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_PhieuNhap.resources
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_Sach.resources
+C:\Users\Admin\Downloads\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Layout.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Admin.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.ChiTietHoaDon.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_HoaDon.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_LoaiSach.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_PhieuNhap.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_Sach.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Layout.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Login.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.cache
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CoreCompileInputs.cache
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.AssemblyReference.cache
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_TacGia.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_NhaXuatBan.resources
+C:\Dữ liệu học tập\Công nghệ .NET\DoAn_QuanLyBanSach\DoAn_QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyPhieuNhap.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Admin.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.ChiTietHoaDon.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyHoaDon.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyPhieuNhap.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_LoaiSach.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_NhaXuatBan.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_PhieuNhap.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_Sach.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Layout.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Login.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_TacGia.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.TaiKhoanNhanVien.resources
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.cache
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CoreCompileInputs.cache
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.AssemblyReference.cache
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+D:\Download\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.AssemblyReference.cache
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Admin.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.ChiTietHoaDon.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyHoaDon.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyPhieuNhap.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_LoaiSach.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_NhaXuatBan.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_PhieuNhap.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_Sach.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Layout.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Login.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_TacGia.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.TaiKhoanNhanVien.resources
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.cache
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CoreCompileInputs.cache
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+C:\Dữ liệu học tập\Công nghệ .NET\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.AssemblyReference.cache
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyHoaDon.resources
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyPhieuNhap.resources
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_LoaiSach.resources
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_NhaXuatBan.resources
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_Sach.resources
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Layout.resources
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Login.resources
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_TacGia.resources
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.TaiKhoanNhanVien.resources
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.cache
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CoreCompileInputs.cache
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+D:\Download\mới nhất\QuanLyBanSach (1)\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.AssemblyReference.cache
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyHoaDon.resources
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyPhieuNhap.resources
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_LoaiSach.resources
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_NhaXuatBan.resources
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_Sach.resources
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Layout.resources
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Login.resources
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_TacGia.resources
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.TaiKhoanNhanVien.resources
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.cache
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CoreCompileInputs.cache
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+D:\Download\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.AssemblyReference.cache
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyHoaDon.resources
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuanLyPhieuNhap.resources
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_LoaiSach.resources
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_NhaXuatBan.resources
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Form_Sach.resources
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Layout.resources
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Login.resources
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.F_TacGia.resources
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.TaiKhoanNhanVien.resources
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.cache
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.CoreCompileInputs.cache
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+E:\DaiHoc\HỌC KÌ 5 (HK1  NĂM 3) GỒM 9 MÔN\mới nhất\DoAnCNN_Nhom4\QuanLyBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
